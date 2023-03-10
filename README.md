@@ -51,6 +51,6 @@ For Any Help or Suggestions, Contact With Us:
 
 
 <p align="left">
-  <a href="https://github.com/SAMIR-CYBER-143" target="_blank"><img src="https://img.shields.io/badge/Github-weirdnehal-green?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/SAMIR-CYBER-143" target="_blank"><img src="https://img.shields.io/badge/Github-SAMIR-CYBER-143-green?style=for-the-badge&logo=github"></a>
   <a href="https://m.me/100090804254681" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
 </p>
